@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fouad-El-Dim
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning OS-development
+- 🌱 I’m currently learning OS-development and Machine Learning
 - 📫 How to reach me? Email: fouad.o.yt@gmail.com
 
 <!---
