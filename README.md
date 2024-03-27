@@ -1,4 +1,3 @@
-```markdown
 # Welcome to Fouad Dimashki's GitHub Profile!
 
 ## About Me
@@ -17,9 +16,7 @@ I am Fouad Dim, a self-taught software developer specializing in full-stack web 
 
 I am always open to networking and collaboration opportunities. Feel free to reach out via:
 
-- **Grepper**: [code-sir](https://www.grepper.com/profile/code-sir)
+- **Grepper**: [code-sir](https://www.grepper.com/profile/fouad-dim)
 - **Website**: [farcast.media](https://www.farcast.media)
 
 Thank you for visiting! Explore my repositories to learn more about my work and don't hesitate to get in touch.
-
-```
