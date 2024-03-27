@@ -10,6 +10,7 @@ I am Fouad Dim, a self-taught software developer specializing in full-stack web 
 - **Graphic Design**: Skilled in crafting visually appealing designs, including user interfaces and logos, to enhance user experience.
 - **Machine Learning**: Experienced in implementing machine learning algorithms and utilizing data science techniques to solve real-world problems.
 - **Operating System Development**: While still learning, I have a solid understanding of low-level programming and system architecture.
+- **Cyder Security**: Worked in pentesting websites and creating cyber security related softwares.
 - **Continuous Learning**: Committed to staying updated with the latest technology trends, I continuously seek opportunities to expand my skill set.
 
 ## Let's Connect
